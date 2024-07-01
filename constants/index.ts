@@ -224,7 +224,7 @@ export const PROJECTS = [
     description:
       "Discover my implementation of a Razorpay interface, created with HTML and Tailwind CSS. This project demonstrates my proficiency in modern CSS frameworks and frontend design principles.",
     image: "/projects/razorpay.png",
-    link: "https://ron-swanson-quotes-ten.vercel.app/",
+    link: "https://frabjous-gaufre-f131be.netlify.app/",
   },
   {
     title: "Weather App",
